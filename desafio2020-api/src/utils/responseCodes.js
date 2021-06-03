@@ -1,0 +1,20 @@
+module.exports = {
+  CODE_001: { CODE: '001', MESSAGE: 'E-mail inválido.' },
+  CODE_002: { CODE: '002', MESSAGE: 'E-mail já cadastrado.' },
+  CODE_003: { CODE: '003', MESSAGE: 'Corrigir dados de usuário: ' },
+  CODE_004: { CODE: '004', MESSAGE: 'Código inválido.' },
+  CODE_005: { CODE: '005', MESSAGE: 'Código já cadastrado.' },
+  CODE_006: { CODE: '006', MESSAGE: 'Corrigir dados das informaçoes do lixo: ' },
+  CODE_007: { CODE: '007', MESSAGE: 'Usuário não cadastrado.' },
+  CODE_008: { CODE: '008', MESSAGE: 'Código do lixo inválido.' },
+  CODE_009: { CODE: '009', MESSAGE: 'Time já cadastrado.' },
+  CODE_010: { CODE: '010', MESSAGE: 'Usuário ou senha inválidos.' },
+  CODE_011: { CODE: '011', MESSAGE: 'Usuário não cadastrado.' },
+  CODE_012: { CODE: '012', MESSAGE: 'Aguarde para solicitar um novo código. Tempo restante: ' },
+  CODE_013: { CODE: '013', MESSAGE: 'Código ou senha inválidos.' },
+  CODE_014: { CODE: '014', MESSAGE: 'Código expirado.' },
+  CODE_015: { CODE: '015', MESSAGE: 'Não será possível refefinir sua senha, pois a conta foi criada através do ' },
+  CODE_016: { CODE: '016', MESSAGE: 'E-mail não cadastrado!' },
+  CODE_017: { CODE: '017', MESSAGE: 'Token inválido.' },
+  CODE_999: { CODE: '999', MESSAGE: 'Algo aconteceu, tente novamente mais tarde.' }
+}
